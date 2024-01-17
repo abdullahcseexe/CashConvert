@@ -47,7 +47,6 @@ function App() {
                 currencyDisable={true}
               />
             </div>
-            <div className="relative w-full h-0.5"></div>
             <div className="w-full mt-1 mb-4">
               <InputBox
                 label="To"
